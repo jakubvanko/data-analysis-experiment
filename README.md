@@ -18,7 +18,7 @@ The prototype should meet all of the requirements specified in the assignment.
 
 ## Instructions
 
-The tool has a help screen that can be triggered by using it without any arguments:
+The jar file is located in the target directory. The tool has a help screen that can be triggered by using it without any arguments:
 ```
 java -jar da-tool.jar
 ```
